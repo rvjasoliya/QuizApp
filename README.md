@@ -24,5 +24,5 @@ Functionality:
 6. At the last question, display the "Submit" button. Upon selecting the button, count the number of Right questions, wrong questions, and Skio questions.
   
    
-https://github.com/rvjasoliya/QuizApp/assets/38591396/9a8a3283-46a1-422e-85d9-41b6dceede11
+https://github.com/rvjasoliya/QuizApp/assets/38591396/00c051f7-9c98-424b-9b3c-b40930342b15
 
